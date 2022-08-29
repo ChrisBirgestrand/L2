@@ -5,6 +5,10 @@ h1 {
 /* hehe comment */
 
 p {
-    color: brown;
+    color: brown; 
     color: aqua;
+}
+
+#second-paragraph {
+    color: blue;
 }
