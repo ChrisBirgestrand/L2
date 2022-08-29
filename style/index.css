@@ -25,4 +25,17 @@ p {
 
 body {
     background-image: url(../L2/img/hor.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    height: 250vh;
+
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
 }
