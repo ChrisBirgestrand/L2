@@ -4,7 +4,8 @@ h1 {
     font-weight: 300;
     font-style: italic;
     text-align: center;
-    background-color: black;
+    background-color: rgb(146, 61, 61, 0.6);
+    
     
 }
 
@@ -20,7 +21,7 @@ p {
 }
 
 .a-whole-new-world, .a-new-paragraph {
-    color: pink;
+    color: black;
 }
 
 body {
@@ -38,4 +39,8 @@ img {
     border-width: 5px;
     border-style: solid;
     border-color: red;
+    border-top: 5px solid greenyellow;
+    border-radius: 10px;
+    /* no thank you to below */
+    box-shadow: 10px 10px 10px whitesmoke;
 }
